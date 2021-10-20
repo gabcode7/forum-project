@@ -1,0 +1,51 @@
+
+/* Estilos Dasboard */
+.container-dashboard{
+    padding: 2%;
+}
+
+#new-question {
+    display: flex; 
+    justify-content: end;
+}
+
+/* Estilos New Question */
+
+.container-new-question {
+    padding: 2%;
+    width: 700px;
+}
+
+.container-new-question button {
+    margin-top: 20px;
+}
+
+#input-tag {
+    width: 250px;
+}
+
+/* Estilos Answers */
+
+.container-answers{
+    padding: 2%;
+}
+
+.table-answers {
+    width: 35%;
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.add-answer {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.add-answer button {
+    margin-top: 20px;
+}
+
+.add-answer input {
+    width: 600px;
+}
